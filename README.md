@@ -11,3 +11,7 @@
 10. `php artisan serve`
 11. Visit `localhost:8000/login` in your browser
 12. Choose `email` from `users` table, password is `password`
+
+Twitter: [kotagin](https://twitter.com/kotagin)
+E-mail: [m.dutt@mditech.net](mailto:m.dutt@mditech.net)
+Website: [mditech.net](https://mditech.net)
